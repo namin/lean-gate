@@ -96,7 +96,8 @@ Point (verbal, no code): everything here is the gate *in isolation* —
 nothing mutated, no level shift. Now let that apply rule be modified
 **from inside a running tower**, via `set!` through a reflective shift —
 that's lean-sage, and the certificate it demands is exactly this
-`Approval`. (See its [`WALKTHROUGH.md`](../lean-sage/WALKTHROUGH.md).)
+`Approval`. (See [lean-sage](https://github.com/namin/lean-sage) and its
+`WALKTHROUGH.md`.)
 
 ---
 
