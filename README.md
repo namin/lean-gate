@@ -33,7 +33,7 @@ lake build       # type-check the library + executable
 lake exe smoke   # four scenes; expect only `OK` lines
 ```
 
-Toolchain: `leanprover/lean4:v4.29.1`.
+Toolchain: `leanprover/lean4:v4.30.0`.
 
 ## Where the pattern is instantiated
 
