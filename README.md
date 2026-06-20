@@ -45,6 +45,5 @@ Toolchain: `leanprover/lean4:v4.30.0`.
 
 ## Where the Wand defeat is mechanized in the substrate
 
-- [lean-emerald](https://github.com/namin/lean-emerald) `wand_beta_gate_indep_keynote` — `evalProgram 10 ((λx. x) 0) G = evalProgram 10 0 G` for any `Gate G`.
 - [lean-sage](https://github.com/namin/lean-sage) `wand_defeated_existential_gated_beta` — gated β-equivalence under `approvedPolicy approvals` for any approval list.
 - [lean-green](https://github.com/namin/lean-green) `LeanBlack/Wand.lean` — value-level existential defeat in the real heap/closure substrate.
